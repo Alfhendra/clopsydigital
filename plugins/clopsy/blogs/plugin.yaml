@@ -1,0 +1,11 @@
+plugin:
+    name: 'clopsy.blogs::lang.plugin.name'
+    description: 'clopsy.blogs::lang.plugin.description'
+    author: clopsy
+    icon: oc-icon-home
+    homepage: ''
+navigation:
+    main-menu-item:
+        label: Title
+        url: clopsy/blogs/blogs
+        icon: icon-home

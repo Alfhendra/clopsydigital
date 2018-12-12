@@ -1,0 +1,10 @@
+name: Blogs
+form: $/clopsy/blogs/models/blog/fields.yaml
+modelClass: Clopsy\Blogs\Models\Blog
+defaultRedirect: clopsy/blogs/blogs
+create:
+    redirect: 'clopsy/blogs/blogs/update/:id'
+    redirectClose: clopsy/blogs/blogs
+update:
+    redirect: clopsy/blogs/blogs
+    redirectClose: clopsy/blogs/blogs

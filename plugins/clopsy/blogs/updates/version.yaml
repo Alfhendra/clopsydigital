@@ -1,0 +1,5 @@
+1.0.1:
+    - 'Initialize plugin.'
+1.0.2:
+    - 'Created table clopsy_blogs_'
+    - builder_table_create_clopsy_blogs_.php

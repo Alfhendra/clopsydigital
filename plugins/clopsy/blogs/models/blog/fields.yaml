@@ -1,0 +1,24 @@
+fields:
+    title:
+        label: 'Blog Title'
+        span: full
+        type: text
+tabs:
+    fields:
+        description:
+            label: Description
+            size: ''
+            span: full
+            type: richeditor
+            tab: 'Tab 1'
+        category:
+            label: Category
+            span: full
+            type: text
+            tab: 'Tab 1'
+        date:
+            label: Date
+            span: auto
+            mode: date
+            type: datepicker
+            tab: 'Tab 1'

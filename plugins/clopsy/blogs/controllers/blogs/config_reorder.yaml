@@ -1,0 +1,4 @@
+title: Blogs
+modelClass: Clopsy\Blogs\Models\Blog
+toolbar:
+    buttons: reorder_toolbar
